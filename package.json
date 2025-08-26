@@ -1,0 +1,14 @@
+{
+  "name": "com.crossinglears.latestmenu",
+  "displayName": "Latest Menu",
+  "version": "0.4.0",
+  "unity": "6000.0",
+  "description": "A simplified menu manager",
+  "dependencies": {},
+
+  "author": {
+    "name": "Crossing Lears",
+    "email": "main@crossinglears.com"
+  }
+  
+}
